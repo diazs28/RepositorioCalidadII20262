@@ -1,7 +1,6 @@
 
 numero = input('Ingresa un numero decimal: ')
 
-
 if not numero.isdigit():
     print('Por favor ingresa un numero decimal valido.')
 else:
